@@ -14,6 +14,13 @@ TThe eIDAS2.0 repository is manually curated by community members like you and t
 <br >
 
 ## Index
-Name | Description | Available | Planned for | Key Features 
-|:---|:---|:---|:---|:---|
-| [Example Wallet](https://eidas2-consultancy.nl) | First Example Wallet | Yes | - | - First<br > - Second |
+Name | Description | Available | Planned for | Pricing | Key Features |
+|:---|:---|:---|:---|:---|:---|
+| [Datakeeper](https://datakeeper.nl) | Ident Verification | Yes | - | Commercial | - NFC<br > |
+| [OcktoID](https://ockto.eu/online-identificatie-met-ocktoid) | 100% Compliant and Simple | Yes | - | Commercial | - Fast & Simple<br > - GDPR Compliant |
+| [Schluss](https://schluss.org) | Take Back Control | Android Only | - | - | - Full Control<br > - Share easily |
+| [Yivi](https://yivi.app) | Own your Identity | Yes | - | Free | - You decide<br > - No passwords <br > - Secure |
+
+
+## License
+[MIT](LICENSE) (c) 2024 [Wallet Index](https://wallet-index.eu)
